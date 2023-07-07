@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Children</key>
+    <array>
+        <dict>
+            <key>Title</key>
+            <string>com.apple.ReadingList</string>
+            <key>Children</key>
+            <array>
+                <dict>
+                    <key>URLString</key>
+                    <string>https://example.com/page1</string>
+                    <key>URIDictionary</key>
+                    <dict>
+                        <key>title</key>
+                        <string>Page 1</string>
+                    </dict>
+                    <key>ReadingList</key>
+                    <dict>
+                        <key>PreviewText</key>
+                        <string>Preview text for page 1</string>
+                    </dict>
+                </dict>
+                <dict>
+                    <key>URLString</key>
+                    <string>https://example.com/page2</string>
+                    <key>URIDictionary</key>
+                    <dict>
+                        <key>title</key>
+                        <string>Page 2</string>
+                    </dict>
+                    <key>ReadingList</key>
+                    <dict>
+                        <key>PreviewText</key>
+                        <string>Preview text for page 2</string>
+                    </dict>
+                </dict>
+            </array>
+        </dict>
+    </array>
+</dict>
+</plist>
+
